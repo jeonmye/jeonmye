@@ -5,8 +5,8 @@
 
 
   
-  ### Mihye Jeon
-  
+  ### Hi there, it's Mihye Jeon here
+  I hope to develop every beautiful things
   
 
   <a href="https://gromit123.tistory.com/"><img src="https://img.shields.io/badge/tistory-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> 
