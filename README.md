@@ -5,9 +5,7 @@
 
 
   
-Mihye Jeon
-  I hope to develop every beautiful things
-  
+  ###Mihye Jeon
   
 
   <a href="https://gromit123.tistory.com/"><img src="https://img.shields.io/badge/tistory-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> 
