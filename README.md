@@ -10,7 +10,7 @@
 </div>
 <div align="left">
 <br/><br/><br/>
-
+${\textsf{\color{green}Green}}$
 ## 🙋‍♂️ Personal Info
 Mi Hye Jeon <p/>
  ![#f03c15]jeonmye@gmail.com
