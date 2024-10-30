@@ -15,13 +15,13 @@
 Mi Hye Jeon <p/>
 <span style="color=black">jeonmye@gmail.com</span>
 <br/>
-## ✏️ Blog -  
+## ✏️ Blog
 <a href="https://gromit123.tistory.com/"> Here </a>
 <br/>
-## 📝 Portfolio -
+## 📝 Portfolio
 <a href="https://jeonmye.oopy.io/portfolio"> Here </a>
 <br/>
-  
+
 ## Tech Stack
 ![htaml5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
