@@ -18,7 +18,7 @@ Mi Hye Jeon <p/>
 ## ✏️ Blog -  <a href="https://gromit123.tistory.com/"> Here </a>
 <br/>
 ## 📝 Portfolio - <a href="https://jeonmye.oopy.io/portfolio"> Here </a>
-<br
+<br/>
   
 ## Tech Stack
 ![htaml5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
