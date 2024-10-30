@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ Personal Info
 Mi Hye Jeon <p/>
- ${\textsf{\color{jeonmye@gmail.com}black}}$	
+ ${\textsf{\color{black}jeonmye@gmail.com}}$	
 <br/>
 ## ✏️ Blog
 <a href="https://gromit123.tistory.com">https://gromit123.tistory.com </a> 
