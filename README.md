@@ -5,14 +5,20 @@
 
 
   
-  ### Hi there, it's Mihye Jeon here
-  I hope to develop every beautiful things
+  ### Welcome To My GitHub!
   
 
   <a href="https://gromit123.tistory.com/"><img src="https://img.shields.io/badge/tistory-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> 
 
 
 <br/><br/><br/>
+
+### 🙋‍♂️ Personal Info
+Mi Hye Jeon
+jeonmye@gmail.com
+
+### ✏️ Blog - Here
+### 📝 Portfolio - Here
 
 ### Tech Stack
 ![htaml5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
