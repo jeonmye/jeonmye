@@ -10,11 +10,11 @@
 </div>
 <div align="left">
 <br/><br/><br/>
-${\textsf{\color{green}Green}}$
+
 ## 🙋‍♂️ Personal Info
 Mi Hye Jeon <p/>
- ![#f03c15]jeonmye@gmail.com
-<br/
+jeonmye@gmail.com
+<br/>
 ## ✏️ Blog
 <a href="https://gromit123.tistory.com">https://gromit123.tistory.com </a> 
 ## 📝 Portfolio
