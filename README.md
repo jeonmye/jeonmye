@@ -16,7 +16,7 @@ Mi Hye Jeon <p/>
 <span style="color=black">jeonmye@gmail.com</span>
 <br/>
 ## ✏️ Blog
-<a href="https://gromit123.tistory.com/"> Here </a>
+https://gromit123.tistory.com/
 <br/>
 ## 📝 Portfolio
 <a href="https://jeonmye.oopy.io/portfolio"> Here </a>
