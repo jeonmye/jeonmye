@@ -6,18 +6,16 @@
 
   
   ### Welcome To My GitHub!
-  
 
-  <a href="https://gromit123.tistory.com/"><img src="https://img.shields.io/badge/tistory-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> 
 
 
 <br/><br/><br/>
 
 ### 🙋‍♂️ Personal Info
-Mi Hye Jeon
+Mi Hye Jeon <p/>
 jeonmye@gmail.com
 
-### ✏️ Blog - Here
+### ✏️ Blog -  <a href="https://gromit123.tistory.com/"> Here </a>
 ### 📝 Portfolio - Here
 
 ### Tech Stack
