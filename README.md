@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <a id="waving">
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=80&fontAlignY=40&color=gradient)
@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ Personal Info
 Mi Hye Jeon <p/>
-<span style="color=black">jeonmye@gmail.com</span>
+ ${\textsf{\color{jeonmye@gmail.com}black}}$	
 <br/>
 ## ✏️ Blog
 <a href="https://gromit123.tistory.com">https://gromit123.tistory.com </a> 
