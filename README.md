@@ -11,13 +11,13 @@
 <div align="left">
 <br/><br/><br/>
 
-## 🙋‍♂️ Personal Info
-Mi Hye Jeon <p/>
+## Personal Info
+Mihye Jeon <p/>
 jeonmye@gmail.com
 <br/>
-## ✏️ Blog
+## Blog
 <a href="https://gromit123.tistory.com">https://gromit123.tistory.com </a> 
-## 📝 Portfolio
+## Portfolio
 <a href="https://jeonmye.oopy.io/portfolio"> Here </a>
 <br/>
 
